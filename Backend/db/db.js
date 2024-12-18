@@ -8,3 +8,5 @@ function connectToDb() {
 }
 
 module.exports = connectToDb;
+
+//basic function create kiya hai jisme mongoose ko database se connect kiya hai
