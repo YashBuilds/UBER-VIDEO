@@ -18,3 +18,26 @@
         "__v": 0
     }
 }
+
+
+
+
+
+{
+    "captain": {
+        "fullname": {
+            "firstname": "test_captain_firstname",
+            "lastname": "test_captain_lastname"
+        },
+        "vehicle": {
+            "color": "red",
+            "plate": "MP 04 XY 6204",
+            "capacity": 3,
+            "vehicleType": "car"
+        },
+        "_id": "6762aef4f2c82e77e17ce992",
+        "email": "test_email@gmail.com",
+        "status": "inactive",
+        "__v": 0
+    }
+}
